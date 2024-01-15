@@ -4,8 +4,8 @@
  * Author: Atropos
  * Software License: MIT
  * Content License: https://www.dndbeyond.com/attachments/39j2li89/SRD5.1-CCBY4.0License.pdf
- * Repository: https://github.com/foundryvtt/dnd5e
- * Issue Tracker: https://github.com/foundryvtt/dnd5e/issues
+ * Repository: https://github.com/RossGosling/foundryvtt-dnd5e
+ * Issue Tracker: https://github.com/RossGosling/foundryvtt-dnd5e/issues
  */
 
 // Import Configuration
